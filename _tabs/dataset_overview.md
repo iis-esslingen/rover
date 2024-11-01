@@ -1,7 +1,9 @@
 ---
-icon: fas fa-database
-order: 2
 title: Dataset Overview
+author: Fabian Schmidt
+date: 2024-10-31
+category: Jekyll
+layout: post
 ---
 
 # Locations
@@ -34,27 +36,27 @@ Each environment was selected based on several important criteria, which help in
 
 
 ## Park
-![Park](assets/images/park.jpg)
+![Park]({{ site.baseurl }}/assets/images/park.jpg)
 
 The *Park* location is a natural area with moderate slopes and varied vegetation, including trees and bushes. This setting provides both natural obstacles and landmarks, aiding navigation but also occasionally obstructing movement. The ambient brightness varies, adding to the challenge of dynamic environmental conditions for SLAM evaluations.
 
 ## Campus Small
-![Campus Small](assets/images/campus_small.jpg)
+![Campus Small]({{ site.baseurl }}/assets/images/campus_small.jpg)
 
 *Campus Small* is a compact lawn adjacent to a building, featuring minimal vegetation and a reflective glass surface that introduces visual localization challenges. The surrounding structures cast shadows, creating a low-brightness environment suited for controlled testing scenarios.
 
 ## Campus Large
-![Campus Large](assets/images/campus_large.jpg)
+![Campus Large]({{ site.baseurl }}/assets/images/campus_large.jpg)
 
 Situated on a rooftop, *Campus Large* offers an expansive area with minimal vegetation and an unobstructed horizon-like view. The stable brightness and few visual landmarks provide a distinct testing ground for navigation in open spaces with limited environmental cues.
 
 ## Garden Small
-![Garden Small](assets/images/garden_small.jpg)
+![Garden Small]({{ site.baseurl }}/assets/images/garden_small.jpg)
 
 *Garden Small* is a shaded garden area surrounded by buildings and a uniform wall on one side. It has moderate vegetation density and reduced brightness, making it challenging for consistent tracking due to limited visual variety.
 
 ## Garden Large
-![Garden Large](assets/images/garden_large.jpg)
+![Garden Large]({{ site.baseurl }}/assets/images/garden_large.jpg)
 
 The *Garden Large* location is a traditional garden with dense vegetation, low incline, and ample light. This visually rich setting enhances the difficulty of navigation and path-planning, with varied vegetation providing both complex landmarks and obstacles for localization.
 
@@ -62,7 +64,7 @@ The *Garden Large* location is a traditional garden with dense vegetation, low i
 
 The dataset captures the environmental variations of each location across different seasons and weather conditions, highlighting how factors such as vegetation, brightness, and lighting influence the robot's performance. Each location was recorded in diverse weather conditions—including sunny, cloudy, and windy days—and at various times of day, from dusk to night, to assess sensor performance under varying light levels.
 
-![Dataset Preview](assets/images/dataset_preview2.png)
+![Dataset Preview]({{ site.baseurl }}/assets/images/dataset_preview2.png)
 
 The table below provides a summary of the recordings and their associated environmental conditions, while the image above illustrates seasonal changes and different lighting conditions within the dataset. This variety allows researchers to evaluate SLAM systems in realistic outdoor scenarios, capturing the challenges presented by changing environmental factors.
 

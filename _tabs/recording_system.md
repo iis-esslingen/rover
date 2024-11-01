@@ -8,7 +8,7 @@ title: Recording System
 
 The data recording system is built on a holonomic robotic platform designed for reliable, synchronized, and efficient data capture, essential for evaluating SLAM algorithms across various environments. Equipped with a range of sensors—including cameras, IMUs, and a ground truth system—the platform is configured for optimal data quality and comprehensive environmental coverage.
 
-![Robotic Recording Overview](assets/images/system_overview2.png)
+![Robotic Recording Overview]({{ site.baseurl }}/assets/images/system_overview2.png)
 
 The robotic platform is based on a modified prototype of a robotic lawn mower, with the sensor suite and onboard computing resources mounted on top. Driven by two large rear wheels for propulsion and two smaller front wheels for stability, the platform is sensitive to surface conditions, which can lead to vibrations when navigating uneven terrain. The platform is manually controlled via a game controller and operates at a consistent speed of 0.5 m/s to minimize dynamic influence on sensors during data acquisition. An external light source is also mounted to facilitate night-time recording.
 
@@ -30,7 +30,7 @@ The robotic platform is outfitted with carefully selected sensors to provide mul
 
 ## Cameras
 
-![Camera Perspectives](assets/images/cam_triple_horizontal.png)
+![Camera Perspectives]({{ site.baseurl }}/assets/images/cam_triple_horizontal.png)
 
 The cameras are the core of the dataset, capturing RGB, depth, and monocular perspectives to provide visual data from diverse angles. These include the Joy IT Pi Camera (budget-friendly wide-angle RGB), Intel RealSense D435i (RGB and depth with IMU integration), and Intel RealSense T265 (fisheye monochrome stereo for tracking). Each camera offers specific advantages, from high FoV for environmental coverage to motion-resistant global shutters, maximizing data relevance for SLAM applications.
 
@@ -50,4 +50,4 @@ Accurate calibration of each sensor is essential for reliable data fusion. The c
 
 The system architecture is designed for efficient data capture, storage, and synchronization, facilitating SLAM evaluation. Dedicated Intel NUC and Raspberry Pi devices process the sensor data, with a Raspberry Pi acting as an NTP server for precise time synchronization across the network. The GNSS and NTP protocols ensure nanosecond-level accuracy, supporting accurate temporal alignment across all recorded data.
 
-![Data Recording and Time Synchronization](assets/images/system_architecture.png)
+![Data Recording and Time Synchronization]({{ site.baseurl }}/assets/images/system_architecture.png)
