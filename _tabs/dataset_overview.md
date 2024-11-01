@@ -2,7 +2,6 @@
 icon: fas fa-database
 order: 2
 title: Dataset Overview
-permalink: /dataset-overview/
 ---
 
 # Locations
