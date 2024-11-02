@@ -21,7 +21,7 @@
     min-height: calc(100% - 50px);
 }
 
-@media (max-width: 1240px) {
+@media (max-width: 1540px) {
     .book-body .body-inner {
         position: absolute;
         margin-top: 50px;
@@ -37,7 +37,7 @@
     padding-bottom: 20px;
 }
 
-@media (max-width: 1240px) {
+@media (max-width: 1540px) {
     .book-body .body-inner .navigation {
         max-width: calc(50% - 3px);
         width: calc(50% - 3px);
