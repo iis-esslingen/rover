@@ -62,7 +62,7 @@
 }
 
 .page-inner {
-    max-width: {{ site.page_width | default: '800px' }};
+    max-width: {{ site.page_width | default: '1000px' }};
 }
 
 .back-to-top {
