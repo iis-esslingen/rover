@@ -22,7 +22,7 @@ toc:
   h_max:   3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     /assets/gitbook/images/robot_platform.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -62,7 +62,7 @@ ordered_collections:
   - pages
   - others
 
-page_width: 800px
+page_width: 1200px
 
 destination:      ./_site
 incremental:      false
