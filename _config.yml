@@ -4,7 +4,7 @@ longtitle:        The ROVER Dataset
 author:           Fabian Schmidt
 email:            fabian.schmidt@hs-esslingen.de
 description: >
-  Build Jekyll site with the GitBook style.
+  The ROVER Visual SLAM Dataset.
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -22,7 +22,7 @@ toc:
   h_max:   3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/robot_platform.ico
+favicon_path:     /assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
