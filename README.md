@@ -1,12 +1,10 @@
 ---
 layout: home
-title: Home
+title: Welcome to The ROVER Dataset
 permalink: /
 ---
 
 ![Cover Figure]({{ site.baseurl }}/assets/images/cover-figure.png)
-
-# Welcome to The ROVER Dataset
 
 Hello everyone! We’re excited to share **The ROVER Dataset** with you. This dataset is designed to support Visual SLAM research, especially for challenging outdoor environments. Here, you’ll find a wealth of resources, information, and tools to assist you in your projects.
 
