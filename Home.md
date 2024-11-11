@@ -6,7 +6,7 @@ permalink: /
 
 ![Cover Figure]({{ site.baseurl }}/assets/images/cover-figure.png)
 
-Hello everyone! We’re excited to share **The ROVER Dataset** with you. This dataset is designed to support Visual SLAM research, especially for challenging outdoor environments. Here, you’ll find a wealth of resources, information, and tools to assist you in your projects.
+Hello everyone! We’re excited to share **The ROVER Dataset** with you. This dataset is designed to support Visual SLAM research, especially for challenging outdoor environments. Here, you’ll find a resources, information, and tools to assist you in your projects.
 
 Explore our dataset, discover the recording system used, and dive into the chapters below to get started!
 
