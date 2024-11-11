@@ -7,6 +7,8 @@ layout: post
 permalink: /pages/download/
 ---
 
+We offer a video preview of the data for the Garden Small location, along with a rosbag of the summer recording.
+
 ## Garden Small
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
