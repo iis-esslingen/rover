@@ -2,7 +2,7 @@
 layout: home
 title: Home
 permalink: /
-cover: https://github.com/iis-esslingen/rover/blob/master/assets/images/cover-figure.png
+cover: assets/images/cover-figure.png
 ---
 
 # Welcome to The ROVER Dataset
