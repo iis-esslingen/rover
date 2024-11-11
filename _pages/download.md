@@ -15,7 +15,7 @@ permalink: /pages/download/
             <p>2023-08-18</p>
             <p>Summer</p>
             <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/Rex3jJWyRtnXnSE">Download</a><br>
         </div>
     </div>
 
@@ -25,7 +25,7 @@ permalink: /pages/download/
             <p>2023-09-15</p>
             <p>Autumn</p>
             <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/KFWjfQ5y65r8DGN">Download</a><br>
         </div>
     </div>
 
@@ -35,7 +35,7 @@ permalink: /pages/download/
             <p>2024-01-13</p>
             <p>Winter</p>
             <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/5LZweHDLSqjsasX">Download</a><br>
         </div>
     </div>
 
@@ -45,7 +45,7 @@ permalink: /pages/download/
             <p>2024-04-11</p>
             <p>Spring</p>
             <p>19.51GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/xLwbpRbaQDXd3jw">Download</a><br>
         </div>
     </div>
 
@@ -55,7 +55,7 @@ permalink: /pages/download/
             <p>2024-05-29</p>
             <p>Day</p>
             <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/wxwgEiT8rHzYBBF">Download</a><br>
         </div>
     </div>
 
@@ -65,7 +65,7 @@ permalink: /pages/download/
             <p>2024-05-29</p>
             <p>Dusk</p>
             <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/RF9kaRb8njXkRwR">Download</a><br>
         </div>
     </div>
 
@@ -75,7 +75,7 @@ permalink: /pages/download/
             <p>2024-05-29</p>
             <p>Night</p>
             <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/X4EFzmkgGWDFdHx">Download</a><br>
         </div>
     </div>
 
@@ -85,7 +85,7 @@ permalink: /pages/download/
             <p>2024-05-29</p>
             <p>Night + Light</p>
             <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <a href="https://bwsyncandshare.kit.edu/s/2dboaaXGrZiim86">Download</a><br>
         </div>
     </div>
 </div>
