@@ -20,7 +20,7 @@ Explore our dataset, discover the recording system used, and dive into the chapt
 - [Download]({{ site.baseurl }}/pages/download)  
   Access the dataset files directly, with details on file formats, storage requirements, and download options.
 
-### Cite 
+### Citation
 If you use our dataset, please cite our paper:
 ```bibtex
 @misc{2024rover,
