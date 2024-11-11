@@ -21,7 +21,7 @@ Explore our dataset, discover the recording system used, and dive into the chapt
   Access the dataset files directly, with details on file formats, storage requirements, and download options.
 
 If you use our dataset, please cite our paper:
-'''
+```bibtex
 @misc{2024rover,
       title={ROVER - A Multi-Season Dataset for Visual SLAM}, 
       author={},
@@ -31,6 +31,6 @@ If you use our dataset, please cite our paper:
       primaryClass={cs.RO},
       url={}, 
 }
-'''
+```
 
 Thank you for visiting, and we hope The ROVER Dataset proves valuable in your work!
