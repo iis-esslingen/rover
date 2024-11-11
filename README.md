@@ -2,8 +2,9 @@
 layout: home
 title: Home
 permalink: /
-cover: assets/images/cover-figure.png
 ---
+
+[Cover Figure]({{ site.baseurl }}/assets/images/cover-figure.png)
 
 # Welcome to The ROVER Dataset
 
