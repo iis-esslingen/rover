@@ -134,14 +134,17 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
 
 - Sequence Directory
     - intelrealsense_D435i
-        - rgb_img
+        - rgb
           - timestamp.png
           - ...
-        - depth_img
+        - depth
           - timestamp.png
           - ...
+        - rgb.txt
+        - depth.txt
         - accel.csv
         - gyro.csv
+        - calib.yaml
     - intelrealsense_T265
       - cam_left
         - timestamp.png
@@ -149,14 +152,21 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
       - cam_right
         - timestamp.png
         - ...
+      - cam_left.txt
+      - cam_right.txt
       - accel.csv
       - gyro.csv
       - pose.csv
+      - calib.yaml
     - picam
-      - timestamp.png
-      - ...
+      - rgb
+        - timestamp.png
+        - ...
+      - rgb.txt
+      - calib.yaml
     - vn100
       - vn100.csv
+      - calib.yaml
     - groundtruth
       - groundtruth.csv
 
