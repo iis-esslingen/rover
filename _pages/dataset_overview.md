@@ -144,7 +144,6 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
         - depth.txt
         - accel.csv
         - gyro.csv
-        - calib.yaml
     - intelrealsense_T265
       - cam_left
         - timestamp.png
@@ -157,18 +156,20 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
       - accel.csv
       - gyro.csv
       - pose.csv
-      - calib.yaml
     - picam
       - rgb
         - timestamp.png
         - ...
       - rgb.txt
-      - calib.yaml
     - vn100
       - vn100.csv
-      - calib.yaml
     - groundtruth
       - groundtruth.csv
+- Calibration
+    - intelrealsense_D435i.yaml
+    - intelrealsense_T265.yaml
+    - picam.yaml
+    - vn100.yaml
 
 ### Rosbag Generation
 
