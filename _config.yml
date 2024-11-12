@@ -62,7 +62,7 @@ ordered_collections:
   - pages
   - others
 
-page_width: 1200px
+page_width: 1000px
 
 destination:      ./_site
 incremental:      false
