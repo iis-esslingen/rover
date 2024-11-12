@@ -55,6 +55,8 @@ For ground truth data, the Leica TS16 Totalstation tracks the precise position o
 
 Accurate calibration of each sensor is essential for reliable data fusion. The calibration involved the Kalibr toolbox for camera and IMU alignment, covering intrinsic and extrinsic parameters for each camera and IMU. Additionally, CAD-based calibration aligned the sensors with the prism, ensuring compatibility with the ground truth system.
 
+Details on the intrinsic and extrinsic calibration for each sensor can be found [here](https://bwsyncandshare.kit.edu/s/xqqb8EaiFPgMsgc).
+
 ## Data Recording
 
 The system architecture is designed for efficient data capture, storage, and synchronization, facilitating SLAM evaluation. Dedicated Intel NUC and Raspberry Pi devices process the sensor data, with a Raspberry Pi acting as an NTP server for precise time synchronization across the network. The GNSS and NTP protocols ensure nanosecond-level accuracy, supporting accurate temporal alignment across all recorded data.
