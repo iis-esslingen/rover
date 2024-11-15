@@ -173,7 +173,7 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
 
 ### Rosbag Generation
 
-We provide scripts to convert raw data into ROS bag files, available [here](link-to-github). Note that the IMU publishing rate for Intel RealSense D435i and T265 depends on the snychronization strategy of acceleromenter and gyrometer. The generated topics include the following data streams:
+We provide scripts to convert raw data into ROS bag files, available [here](https://github.com/iis-esslingen/rover_utils). Note that the IMU publishing rate for Intel RealSense D435i and T265 depends on the snychronization strategy of acceleromenter and gyrometer. The generated topics include the following data streams:
 
 <div class="table-wrapper" markdown="block">
 
