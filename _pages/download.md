@@ -8,6 +8,7 @@ permalink: /pages/download/
 ---
 
 We offer a video preview of the data for the Garden Small location, along with a rosbag of the summer recording.
+
 > ##### TIP
 >
 > The full dataset will be published upon acceptance of the paper.
