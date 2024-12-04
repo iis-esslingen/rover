@@ -28,9 +28,10 @@ Explore our dataset, discover the recording system used, and dive into the chapt
 This is joint work of Institute for Intelligent Systems (Esslingen University), ANDREAS STIHL AG & Co. KG, and Robot Learning Lab (University of Freiburg).
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="{{ site.baseurl }}/assets/images/esslingen_university.png" width="200">
-  <img src="{{ site.baseurl }}/assets/images/stihl.png" width="200">
-  <img src="{{ site.baseurl }}/assets/images/uni_freiburg.jpg" width="200">
+  <img src="{{ site.baseurl }}/assets/images/iis_logo_full_bitmap.jpg" height="50">
+  <img src="{{ site.baseurl }}/assets/images/esslingen_university.png" height="50">
+  <img src="{{ site.baseurl }}/assets/images/stihl.png" height="50">
+  <img src="{{ site.baseurl }}/assets/images/uni_freiburg.jpg" height="50">
 </div>
 
 ### Citation
