@@ -7,6 +7,25 @@ layout: post
 permalink: /pages/benchmark/
 ---
 
+## Modality Specific
+### Mono
+![Mono Results]({{ site.baseurl }}/assets/images/Mono.png)
+
+### Mono-Inertial
+![Mono-Inertial Results]({{ site.baseurl }}/assets/images/Mono-Inertial.png)
+
+### Stereo
+![Stereo Results]({{ site.baseurl }}/assets/images/Stereo.png)
+
+### Stereo-Inertial
+![Stereo-Inertial Results]({{ site.baseurl }}/assets/images/Stereo-Inertial.png)
+
+### RGBD
+![RGBD Results]({{ site.baseurl }}/assets/images/RGBD.png)
+
+### RGBD-Inertial
+![RGBD-Inertial Results]({{ site.baseurl }}/assets/images/RGBD-Inertial.png)
+
 ## Location Specific
 ### Park
 ![Park Results]({{ site.baseurl }}/assets/images/Park.png)
