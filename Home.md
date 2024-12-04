@@ -23,6 +23,16 @@ Explore our dataset, discover the recording system used, and dive into the chapt
 - [Download]({{ site.baseurl }}/pages/download)  
   Access the dataset files directly, with details on file formats, storage requirements, and download options.
 
+
+## Colaborators
+This is joint work of Esslingen University, ANDREAS STIHL AG & Co. KG, and University of Freiburg.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="{{ site.baseurl }}/assets/images/esslingen_university.png" width="200"></td>
+  <img src="{{ site.baseurl }}/assets/images/stihl.png" width="200"></td>
+  <img src="{{ site.baseurl }}/assets/images/uni_freiburg.jpg" width="200"></td>
+</div>
+
 ### Citation
 If you use our dataset, please cite our paper:
 ```bibtex
