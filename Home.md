@@ -26,14 +26,14 @@ Explore our dataset, discover the recording system used, and dive into the chapt
 ### Citation
 If you use our dataset, please cite our paper:
 ```bibtex
-@misc{2024rover,
-      title={ROVER - A Multi-Season Dataset for Visual SLAM}, 
-      author={},
+@article{schmidt2024rover,
+      title={ROVER: A Multi-Season Dataset for Visual SLAM}, 
+      author={Fabian Schmidt and Constantin Blessing and Markus Enzweiler and Abhinav Valada},
       year={2024},
-      eprint={},
+      eprint={2412.02506},
       archivePrefix={arXiv},
       primaryClass={cs.RO},
-      url={}, 
+      url={https://arxiv.org/abs/2412.02506}, 
 }
 ```
 
