@@ -7,11 +7,9 @@ layout: post
 permalink: /pages/download/
 ---
 
-We offer a video preview of the data for the Garden Small location, along with a rosbag of the summer recording.
-
 > ##### Note
 >
-> The full dataset will be published upon acceptance of the paper.
+> We offer a video preview of the data for the Garden Small location, along with a rosbag of the summer recording. The full dataset will be published upon acceptance of the paper.
 
 ## Calibration
 We provide for each sensor the intrinsic and extrinsic calibration that can be found [here](https://bwsyncandshare.kit.edu/s/xqqb8EaiFPgMsgc).
