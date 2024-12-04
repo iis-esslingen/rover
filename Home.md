@@ -25,7 +25,7 @@ Explore our dataset, discover the recording system used, and dive into the chapt
 
 
 ## Collaborators
-This is joint work of Institute for Intelligent Systems (Esslingen University), ANDREAS STIHL AG & Co. KG, and Robot Learning Lab (University of Freiburg).
+This is joint work of [Institute for Intelligent Systems](https://www.hs-esslingen.de/en/research/projects/research-institutes-groups/iis-institute-for-intelligent-systems) (Esslingen University), ANDREAS STIHL AG & Co. KG, and [Robot Learning Lab](https://rl.uni-freiburg.de/) (University of Freiburg).
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="{{ site.baseurl }}/assets/images/iis_logo_full_bitmap.jpg" height="50"> by 
