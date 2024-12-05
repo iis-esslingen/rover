@@ -18,7 +18,7 @@ Explore our dataset, discover the recording system used, and dive into the chapt
   Learn about the dataset structure, contents, and the various scenarios we’ve included to simulate real-world conditions.
 
 - [Benchmark]({{ site.baseurl }}/pages/benchmark)  
-  Find detailed results and code of the benchmark.
+  Find detailed results and [code of the benchmark](https://github.com/iis-esslingen/rover_benchmark).
 
 - [Download]({{ site.baseurl }}/pages/download)  
   Access the dataset files directly, with details on file formats, storage requirements, and download options.
