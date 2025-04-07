@@ -136,35 +136,28 @@ The dataset contains raw data organized by sequence directories, with sensor-spe
     - intelrealsense_D435i
         - rgb
           - timestamp.png
-          - ...
         - depth
           - timestamp.png
-          - ...
+        - imu
+          - imu.txt
         - rgb.txt
         - depth.txt
-        - accel.csv
-        - gyro.csv
     - intelrealsense_T265
       - cam_left
         - timestamp.png
-        - ...
       - cam_right
         - timestamp.png
-        - ...
+      - imu
+        - imu.txt
       - cam_left.txt
       - cam_right.txt
-      - accel.csv
-      - gyro.csv
-      - pose.csv
     - picam
       - rgb
         - timestamp.png
-        - ...
       - rgb.txt
     - vn100
-      - vn100.csv
-    - groundtruth
-      - groundtruth.csv
+      - imu.txt
+    - groundtruth.txt
 - Calibration
     - intelrealsense_D435i.yaml
     - intelrealsense_T265.yaml
@@ -181,10 +174,10 @@ We provide scripts to convert raw data into ROS bag files, available [here](http
 | --------------------- | -------------------- | -------------------- | --------------------- |
 | Intel RealSense D435i | /d435i/rgb_image     | sensor_msgs/Image    | 30                    |
 |                       | /d435i/depth_image   | sensor_msgs/Image    | 30                    |
-|                       | /d435i/imu           | sensor_msgs/Imu      | 100/200/300           |
+|                       | /d435i/imu           | sensor_msgs/Imu      | 300                   |
 | Intel RealSense T265  | /t265/image_left     | sensor_msgs/Image    | 30                    |
 |                       | /t265/image_right    | sensor_msgs/Image    | 30                    |
-|                       | /t265/imu            | sensor_msgs/Imu      | 65/200/265            |
+|                       | /t265/imu            | sensor_msgs/Imu      | 265                   |
 | PiCam                 | /pi_cam_02/rgb_image | sensor_msgs/Image    | 30                    |
 | VN100                 | /vn100/imu           | sensor_msgs/Imu      | 65                    |
 
