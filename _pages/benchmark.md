@@ -31,28 +31,25 @@ Each modality was evaluated across all sequences to assess the impact of sensor 
 Each cell presents the mean RMSE ATE (in meters) across the five locations – Park, Campus Small, Campus Large, Garden Small, and Garden Large. The second row in each cell shows the mean ATE across all locations, the standard deviation of the ATE, and the Success Rate in percent, calculated as the ratio of valid trajectories to the total number of trials for each configuration. The best and second best results for each location and the overall mean are highlighted in green.
 
 ### Mono
-![Mono Results]({{ site.baseurl }}/assets/images/Mono.png)
+![Mono Results]({{ site.baseurl }}/assets/images/mono-results.png)
 
 ### Mono-Inertial
-![Mono-Inertial Results]({{ site.baseurl }}/assets/images/Mono-Inertial.png)
+![Mono-Inertial Results]({{ site.baseurl }}/assets/images/mono-inertial-results.png)
 
-### Stereo
-![Stereo Results]({{ site.baseurl }}/assets/images/Stereo.png)
+### Stereo & Stereo-Inertial
+![Stereo-Inertial Results]({{ site.baseurl }}/assets/images/stereo-stereo-inertial-results.png)
 
-### Stereo-Inertial
-![Stereo-Inertial Results]({{ site.baseurl }}/assets/images/Stereo-Inertial.png)
-
-### RGBD
-![RGBD Results]({{ site.baseurl }}/assets/images/RGBD.png)
-
-### RGBD-Inertial
-![RGBD-Inertial Results]({{ site.baseurl }}/assets/images/RGBD-Inertial.png)
+### RGBD & RGBD-Inertial
+![RGBD-Inertial Results]({{ site.baseurl }}/assets/images/rgbd-rgbd-inertial-results.png)
 
 ## Environmental Robustness
 The results of the best-performing sensor configuration of each SLAM method are shown in detail regarding different lighting conditions and seasonality. For each configuration, the mean ATE over five runs for the five locations is reported, along with the average across locations, the standard deviation, and the success rate. Best overall results are highlighted in green.
 
 ## Lighting Conditions
-![Lighting Results]({{ site.baseurl }}/assets/images/Lightings.png)
+![Lighting Results]({{ site.baseurl }}/assets/images/lighting-results.png)
 
 ## Seasonality
-![Season Results]({{ site.baseurl }}/assets/images/Seasons.png)
+![Season Results]({{ site.baseurl }}/assets/images/seasonality-results.png)
+
+## Summary
+![Summary Results]({{ site.baseurl }}/assets/images/summary_outcomes.png)
