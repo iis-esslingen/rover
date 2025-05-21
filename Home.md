@@ -38,10 +38,10 @@ This is joint work of [Institute for Intelligent Systems](https://www.hs-essling
 ### Citation
 If you use our dataset, please cite our paper:
 ```bibtex
-@article{schmidt2024rover,
+@article{schmidt2025rover,
       title={ROVER: A Multi-Season Dataset for Visual SLAM}, 
-      author={Fabian Schmidt and Constantin Blessing and Markus Enzweiler and Abhinav Valada},
-      year={2024},
+      author={Fabian Schmidt and Julian Daubermann and Marcel Mitschke and Constantin Blessing and Stefan Meyer and Markus Enzweiler and Abhinav Valada},
+      year={2025},
       eprint={2412.02506},
       archivePrefix={arXiv},
       primaryClass={cs.RO},
