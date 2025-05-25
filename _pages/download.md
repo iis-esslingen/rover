@@ -14,6 +14,9 @@ permalink: /pages/download/
 ## Calibration
 We provide for each sensor the intrinsic and extrinsic calibration that can be found [here](https://bwsyncandshare.kit.edu/s/xqqb8EaiFPgMsgc).
 
+## Download (HuggingFace)
+The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-esslingen/ROVER](https://huggingface.co/datasets/iis-esslingen/ROVER). We do also provide a python script to download the files for the ease of use, see [here](https://github.com/iis-esslingen/rover_benchmark/blob/main/utils/download.py).
+
 ## Garden Small
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
