@@ -8,10 +8,10 @@ permalink: /pages/download/
 ---
 
 ## Calibration
-We provide for each sensor the intrinsic and extrinsic calibration that can be found [here](https://bwsyncandshare.kit.edu/s/xqqb8EaiFPgMsgc).
+We provide for each sensor the intrinsic and extrinsic calibration that can be found [here](https://fdm.hs-esslingen.de/schmidt2025rover/calibration.zip).
 
 ## Download (HuggingFace)
-The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-esslingen/ROVER](https://huggingface.co/datasets/iis-esslingen/ROVER). We do also provide a python script to download the files for the ease of use, see [here](https://github.com/iis-esslingen/rover_benchmark/blob/main/utils/download.py).
+The dataset can be found on our [download server](https://fdm.hs-esslingen.de/schmidt2025rover) and on HuggingFace [https://huggingface.co/datasets/iis-esslingen/ROVER](https://huggingface.co/datasets/iis-esslingen/ROVER). We do also provide a python script to download and reconstruct the chunked files from HuggingFace for the ease of use, see [here](https://github.com/iis-esslingen/rover_benchmark/blob/main/utils/download.py).
 
 ## Garden Small
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
@@ -20,8 +20,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-08-18</p>
             <p>Summer</p>
-            <p>19.41GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/Rex3jJWyRtnXnSE">Download</a><br>
+            <p>19 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2023-08-18.zip">Download</a><br>
         </div>
     </div>
 
@@ -30,8 +30,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-09-15</p>
             <p>Autumn</p>
-            <p>13.31GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/KFWjfQ5y65r8DGN">Download</a><br>
+            <p>17 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2023-09-15.zip">Download</a><br>
         </div>
     </div>
 
@@ -40,8 +40,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-01-13</p>
             <p>Winter</p>
-            <p>13.31GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/5LZweHDLSqjsasX">Download</a><br>
+            <p>15 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-01-13.zip">Download</a><br>
         </div>
     </div>
 
@@ -50,8 +50,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-04-11</p>
             <p>Spring</p>
-            <p>19.51GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/xLwbpRbaQDXd3jw">Download</a><br>
+            <p>19 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-04-11.zip">Download</a><br>
         </div>
     </div>
 
@@ -60,8 +60,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Day</p>
-            <p>20.48GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/wxwgEiT8rHzYBBF">Download</a><br>
+            <p>16 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-05-29_1.zip">Download</a><br>
         </div>
     </div>
 
@@ -70,8 +70,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Dusk</p>
-            <p>20.48GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/RF9kaRb8njXkRwR">Download</a><br>
+            <p>13 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-05-29_2.zip">Download</a><br>
         </div>
     </div>
 
@@ -80,8 +80,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Night</p>
-            <p>20.48GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/X4EFzmkgGWDFdHx">Download</a><br>
+            <p>11 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-05-29_3.zip">Download</a><br>
         </div>
     </div>
 
@@ -90,8 +90,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Night + Light</p>
-            <p>20.48GB</p>
-            <a href="https://bwsyncandshare.kit.edu/s/2dboaaXGrZiim86">Download</a><br>
+            <p>16 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_small_2024-05-29_4.zip">Download</a><br>
         </div>
     </div>
 </div>
@@ -103,8 +103,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-08-18</p>
             <p>Summer</p>
-            <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>26 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2023-08-18.zip">Download</a><br>
         </div>
     </div>
 
@@ -113,8 +113,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-12-21</p>
             <p>Autumn</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>32 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2023-12-21.zip">Download</a><br>
         </div>
     </div>
 
@@ -123,8 +123,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-01-13</p>
             <p>Winter</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>20 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-01-13.zip">Download</a><br>
         </div>
     </div>
 
@@ -133,8 +133,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-04-11</p>
             <p>Spring</p>
-            <p>19.51GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>24 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-04-11.zip">Download</a><br>
         </div>
     </div>
 
@@ -143,8 +143,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Day</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>19 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-05-29_1.zip">Download</a><br>
         </div>
     </div>
 
@@ -153,8 +153,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-29</p>
             <p>Dusk</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>15 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-05-29_2.zip">Download</a><br>
         </div>
     </div>
 
@@ -163,8 +163,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-30</p>
             <p>Night</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>13 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-05-30_1.zip">Download</a><br>
         </div>
     </div>
 
@@ -173,8 +173,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-30</p>
             <p>Night + Light</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>19 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/garden_large_2024-05-30_2.zip">Download</a><br>
         </div>
     </div>
 </div>
@@ -187,8 +187,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-07-31</p>
             <p>Summer</p>
-            <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>25 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2023-07-31.zip">Download</a><br>
         </div>
     </div>
 
@@ -197,8 +197,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-11-07</p>
             <p>Autumn</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>25 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2023-11-07.zip">Download</a><br>
         </div>
     </div>
 
@@ -207,8 +207,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-04-04</p>
             <p>Spring</p>
-            <p>19.51GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>27 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2024-04-14.zip">Download</a><br>
         </div>
     </div>
 
@@ -217,8 +217,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-08</p>
             <p>Day</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>26 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2024-05-08.zip">Download</a><br>
         </div>
     </div>
 
@@ -227,8 +227,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-13</p>
             <p>Dusk</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>23 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2024-05-13_1.zip">Download</a><br>
         </div>
     </div>
 
@@ -237,8 +237,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-13</p>
             <p>Night</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>18 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2024-05-13_2.zip">Download</a><br>
         </div>
     </div>
 
@@ -247,8 +247,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-24</p>
             <p>Night + Light</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>21 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/park_2024-05-24_2.zip">Download</a><br>
         </div>
     </div>
 </div>
@@ -260,8 +260,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-09-11</p>
             <p>Summer</p>
-            <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>23 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2023-09-11.zip">Download</a><br>
         </div>
     </div>
 
@@ -270,8 +270,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-11-23</p>
             <p>Autumn</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>20 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2023-11-23.zip">Download</a><br>
         </div>
     </div>
 
@@ -280,8 +280,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-02-19</p>
             <p>Winter</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>19 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-02-19.zip">Download</a><br>
         </div>
     </div>
 
@@ -290,8 +290,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-04-14</p>
             <p>Spring</p>
-            <p>19.51GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>21 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-04-14.zip">Download</a><br>
         </div>
     </div>
 
@@ -300,8 +300,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-07</p>
             <p>Day</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>21 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-05-07.zip">Download</a><br>
         </div>
     </div>
 
@@ -310,8 +310,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-08</p>
             <p>Dusk</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>21 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-05-08_1.zip">Download</a><br>
         </div>
     </div>
 
@@ -320,8 +320,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-08</p>
             <p>Night</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>17 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-05-08_2.zip">Download</a><br>
         </div>
     </div>
 
@@ -330,8 +330,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-05-24</p>
             <p>Night + Light</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>21 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_small_2024-05-24_1.zip">Download</a><br>
         </div>
     </div>
 </div>
@@ -344,8 +344,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-07-20</p>
             <p>Summer</p>
-            <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>45 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2023-07-20.zip">Download</a><br>
         </div>
     </div>
 
@@ -354,8 +354,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2023-11-07</p>
             <p>Autumn</p>
-            <p>19.41GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>43 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2023-11-07.zip">Download</a><br>
         </div>
     </div>
 
@@ -364,8 +364,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-01-27</p>
             <p>Winter</p>
-            <p>13.31GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>31 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-01-27.zip">Download</a><br>
         </div>
     </div>
 
@@ -374,8 +374,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-04-14</p>
             <p>Spring</p>
-            <p>19.51GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>41 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-04-14.zip">Download</a><br>
         </div>
     </div>
 
@@ -384,8 +384,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-09-25</p>
             <p>Day</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>32 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-25.zip">Download</a><br>
         </div>
     </div>
 
@@ -394,8 +394,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-09-24</p>
             <p>Dusk</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>31 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-24_2.zip">Download</a><br>
         </div>
     </div>
 
@@ -404,8 +404,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-09-24</p>
             <p>Night</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>23 GB</p>
+            <a href=""https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-24_3.zip">Download</a><br>
         </div>
     </div>
 
@@ -414,8 +414,8 @@ The dataset can be found on HuggingFace [https://huggingface.co/datasets/iis-ess
         <div>
             <p>2024-09-24</p>
             <p>Night + Light</p>
-            <p>20.48GB</p>
-            <!-- <a href="https://bwsyncandshare.kit.edu/f/4117595206">Download</a><br> -->
+            <p>31 GB</p>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-24_4.zip">Download</a><br>
         </div>
     </div>
 </div>
