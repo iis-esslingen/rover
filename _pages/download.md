@@ -405,7 +405,7 @@ The dataset can be found on our [download server](https://fdm.hs-esslingen.de/sc
             <p>2024-09-24</p>
             <p>Night</p>
             <p>23 GB</p>
-            <a href=""https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-24_3.zip">Download</a><br>
+            <a href="https://fdm.hs-esslingen.de/schmidt2025rover/campus_large_2024-09-24_3.zip">Download</a><br>
         </div>
     </div>
 
