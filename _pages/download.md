@@ -10,7 +10,7 @@ permalink: /pages/download/
 ## Calibration
 We provide for each sensor the intrinsic and extrinsic calibration that can be found [here](https://fdm.hs-esslingen.de/schmidt2025rover/calibration.zip).
 
-## Download (HuggingFace)
+## Download
 The dataset can be found on our [download server](https://fdm.hs-esslingen.de/schmidt2025rover) and on [HuggingFace](https://huggingface.co/datasets/iis-esslingen/ROVER). We do also provide a python script to download and reconstruct the chunked files from HuggingFace for the ease of use, see [here](https://github.com/iis-esslingen/rover_benchmark/blob/main/utils/download.py).
 
 ## Garden Small
