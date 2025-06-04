@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+git_source(:github) { |rover_benchmark| "https://github.com/iis-esslingen/rover_benchmark" }
 gem "jekyll"
 gem 'jekyll-feed'
 gem 'jekyll-readme-index'
