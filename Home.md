@@ -38,15 +38,16 @@ This is joint work of [Institute for Intelligent Systems](https://www.hs-essling
 ### Citation
 If you use our dataset, please cite our paper:
 ```bibtex
-@article{schmidt2025rover,
-      title={ROVER: A Multi-Season Dataset for Visual SLAM}, 
-      author={Fabian Schmidt and Julian Daubermann and Marcel Mitschke and Constantin Blessing and Stefan Meyer and Markus Enzweiler and Abhinav Valada},
-      year={2025},
-      eprint={2412.02506},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2412.02506}, 
-}
+@ARTICLE{schmidt2025rover,
+  author={Schmidt, Fabian and Daubermann, Julian and Mitschke, Marcel and Blessing, Constantin and Meyer, Stephan and Enzweiler, Markus and Valada, Abhinav},
+  journal={IEEE Transactions on Robotics}, 
+  title={ROVER: A Multi-Season Dataset for Visual SLAM}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-19},
+  keywords={Simultaneous localization and mapping;Visualization;Forestry;Robots;Lighting;Global navigation satellite system;Benchmark testing;Location awareness;Automobiles;Hands;SLAM;Visual SLAM;datasets;benchmark},
+  doi={10.1109/TRO.2025.3577026}}
 ```
 
 Thank you for visiting, and we hope The ROVER Dataset proves valuable in your work!
